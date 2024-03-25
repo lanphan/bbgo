@@ -646,6 +646,10 @@ The cost is 10 ETH. If you're interested in it, DM me in telegram <https://t.me/
 
 See [Contributing](./CONTRIBUTING.md)
 
+### Code Contributors
+
+[![BBGO Contributors][contributors-src]][contributors-href]
+
 ### Financial Contributors
 
 [[Become a backer](https://opencollective.com/bbgo#backer)]
@@ -664,3 +668,6 @@ Check the details in [$BBG Contract Page](contracts/README.md) and our [official
 ## License
 
 AGPL License
+
+[contributors-src]: https://opencollective.com/bbgo/contributors.svg?width=890&button=false&isActive=true
+[contributors-href]: https://github.com/c9s/bbgo/graphs/contributors
